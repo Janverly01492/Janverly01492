@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Janverly01492
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript from scratch
+
 - 📫 How to reach me janverlymhaybacani@gmail.com
 
 <!---
